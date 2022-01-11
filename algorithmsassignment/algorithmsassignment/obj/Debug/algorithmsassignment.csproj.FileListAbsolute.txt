@@ -1,0 +1,12 @@
+C:\Users\Danny\Desktop\Uni\Algorithms\algorithmsassignment\algorithmsassignment\bin\Debug\algorithmsassignment.exe.config
+C:\Users\Danny\Desktop\Uni\Algorithms\algorithmsassignment\algorithmsassignment\bin\Debug\algorithmsassignment.exe
+C:\Users\Danny\Desktop\Uni\Algorithms\algorithmsassignment\algorithmsassignment\bin\Debug\algorithmsassignment.pdb
+C:\Users\Danny\Desktop\Uni\Algorithms\algorithmsassignment\algorithmsassignment\obj\Debug\algorithmsassignment.csprojResolveAssemblyReference.cache
+C:\Users\Danny\Desktop\Uni\Algorithms\algorithmsassignment\algorithmsassignment\obj\Debug\algorithmsassignment.exe
+C:\Users\Danny\Desktop\Uni\Algorithms\algorithmsassignment\algorithmsassignment\obj\Debug\algorithmsassignment.pdb
+C:\Users\Danny\Desktop\Uni\Algorithms\algorithmsassignment1\algorithmsassignment\bin\Debug\algorithmsassignment.exe.config
+C:\Users\Danny\Desktop\Uni\Algorithms\algorithmsassignment1\algorithmsassignment\obj\Debug\algorithmsassignment.exe
+C:\Users\Danny\Desktop\Uni\Algorithms\algorithmsassignment1\algorithmsassignment\obj\Debug\algorithmsassignment.pdb
+C:\Users\Danny\Desktop\Uni\Algorithms\algorithmsassignment1\algorithmsassignment\bin\Debug\algorithmsassignment.exe
+C:\Users\Danny\Desktop\Uni\Algorithms\algorithmsassignment1\algorithmsassignment\bin\Debug\algorithmsassignment.pdb
+C:\Users\Danny\Desktop\Uni\Algorithms\algorithmsassignment1\algorithmsassignment\obj\Debug\algorithmsassignment.csprojResolveAssemblyReference.cache
